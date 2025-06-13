@@ -24,9 +24,9 @@ let Somenumber = String(somenumber)
 
 let value = 7
 let c = -value
-// console.log(c);
+console.log(c);
  
 let String1 = "hello"
 let String2 = " hitesh"
 let String3 = (String1+String2)
-console.log(String3);
+// console.log(String3);
