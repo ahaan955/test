@@ -2,7 +2,7 @@
 
 // alert ( 3+3 )// we are using git not browser
 
-console.log( 3+3 );
+// console.log( 3+3 );
 // types of data 
 // number =======> 2 to the power od 53 
 // string=====> words 
